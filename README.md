@@ -1,5 +1,5 @@
 # ImageClassification
-Image classification - specially for structure documents
+Image classification - specially for structured documents
 
 Dir structure
 ```
