@@ -23,7 +23,7 @@ filemapper = []
 coords = []
 isTrain = "True"
 isClassify = "True"
-basePath = "..\\14501500\\"
+basePath = "..\\ParentDir\\"
 f = open(basePath + 'PRLog.txt','w')
 
 class Model:
