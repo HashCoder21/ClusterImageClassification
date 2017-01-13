@@ -1,6 +1,5 @@
 # ImageClassification
-Image classification - specially for structured documents
-
+It is supervised machine learning image classification engine - specially for structured documents
 Dir structure
 ```
 |-parentDir\
